@@ -1,0 +1,10 @@
+{
+    "content": "<@123xxxsome_numbers> New email received for xxx",
+    "embeds": [{
+        "title": "<the subject of email>",
+        "description": "<contents, usually just snippet, zapier cannot escape special characters>",
+        "footer":{
+            "text": "Received on <date of email>"
+        }
+    }]
+}
