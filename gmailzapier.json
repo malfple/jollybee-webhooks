@@ -3,8 +3,14 @@
     "embeds": [{
         "title": "<the subject of email>",
         "description": "<contents, usually just snippet, zapier cannot escape special characters>...",
-        "footer":{
+        "footer": {
             "text": "Received on <date of email>"
-        }
+        },
+        "fields": [
+             {
+                "name": "*Received from:*",
+                "value": "*<the sender's email>*"
+            }
+        ]
     }]
 }
