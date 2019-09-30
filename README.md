@@ -6,7 +6,7 @@ Automated contest notifications for discord
 
 ### Services used:
 
-- zapier.com
+- https://zapier.com/
 
 ### Gmail webhook guide for Zapier:
 
@@ -21,4 +21,9 @@ Automated contest notifications for discord
 
 ## Helpful Links
 
-https://gurujsonrpc.appspot.com/
+- https://support.discordapp.com/hc/en-us/articles/228383668-Intro-to-Webhooks
+  - Intro to Discord Webhook 101
+- https://gurujsonrpc.appspot.com/
+  - Used for testing
+- https://leovoel.github.io/embed-visualizer/
+  - Discord Embed Visualizer
